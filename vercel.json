@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "sj/index.php": {
+      "runtime": "vercel-php@0.4.0"
+    }
+    "dn/index.php": {
+      "runtime": "vercel-php@0.4.0"
+    }
+  }
+}
